@@ -1,5 +1,7 @@
 # Lab 2: SQLite Database and CRUD Routes
 
+
+**Live Deployment:** https://manogna-lab02.onrender.com
 ## Student Details
 
 - **Name:** Manogna.A
@@ -89,6 +91,10 @@ SQL queries use `?` placeholders to safely handle user input and help prevent SQ
 ### 5. DELETE Book
 
 ![DELETE Book](screenshots/delete-book.png)
+
+### 6. Live API Deployment
+
+![Live API](screenshots/live-api.png)
 
 ## Environment Variables
 
