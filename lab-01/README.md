@@ -12,7 +12,7 @@
 **Deployment URL:** https://manogna-lab01.onrender.com
 
 
-The public deployment URL will be added after deploying the application.
+
 
 ## Project Description
 
