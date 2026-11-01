@@ -6,9 +6,11 @@
 - **Registration Number:** 252U1R8051
 - **Section:** S-13 Quantum Engineering 1B
 
+
 ## Live Deployment Link
 
-**Deployment URL:** Not deployed yet.
+**Deployment URL:** https://manogna-lab01.onrender.com
+
 
 The public deployment URL will be added after deploying the application.
 
