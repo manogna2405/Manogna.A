@@ -120,8 +120,24 @@ The following test cases were performed:
 
 ## Screenshots
 
-All Postman testing screenshots are available in the `screenshots` folder.
+1. [GET Book by ID](screenshots/get-book-by-id.png)
+2. [GET Book Not Found](screenshots/get-book-not-found.png)
+3. [Invalid Book ID](screenshots/invalid-book-id.png)
+4. [Search Books](screenshots/search-books.png)
+5. [Sorting Ascending](screenshots/sorting-ascending.png)
+6. [Pagination Page 1](screenshots/pagination-page-1.png)
+7. [Pagination Page 2](screenshots/pagination-page-2.png)
+8. [Price Filter](screenshots/price-filter.png)
+9. [POST Book](screenshots/post-book.png)
+10. [POST Validation: Missing Author](screenshots/post-validation-missing-author.png)
+11. [POST Validation: Invalid Price](screenshots/post-validation-invalid-price.png)
+12. [PUT Book](screenshots/put-book.png)
+13. [DELETE Book](screenshots/delete-book.png)
+14. [DELETE Book Not Found](screenshots/delete-book-not-found.png)
 
+## Conclusion
+
+Your existing conclusion stays here.
 ## Conclusion
 
 The REST API was successfully developed and tested using Express.js and SQLite. The application supports CRUD operations, search, sorting, pagination and price-range filtering. Input validation and appropriate HTTP status codes were implemented to handle successful requests and errors consistently.
